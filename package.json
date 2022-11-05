@@ -4,7 +4,7 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build",
+    "build": "ng build --base-href https://main.dcud04yu7sy2z.amplifyapp.com/",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
